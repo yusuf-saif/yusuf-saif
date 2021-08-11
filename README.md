@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode];
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [Dev.to];
+- 📝 I sometimes write articles on [Dev.to];
 - 📫 How to reach me: clevercode.yusuf@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1N8jRjY9Y8CqySGTLFS7iA_TGRSwjX55f/view?usp=drivesdk).
 
