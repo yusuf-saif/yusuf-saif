@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yusuf-saif.yusuf-saif)
 
-I am a full-stack software Developer focused on Backend Developement [PHP(Laravel)] and an eye on Javascript (VueJS, Angular, TypeScript).. I love programming, writing, sleeping, speaking and traveling.
+I am a full-stack Software Developer focused on Backend Developement [PHP(Laravel)] and an eye on Javascript (VueJS, Angular, TypeScript).. I love programming, writing, sleeping, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode];
+- 🚀 I’m currently Learning how to stay healthy and be a great software developer;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I sometimes write articles on [Dev.to];
 - 📫 How to reach me: clevercode.yusuf@gmail.com;
