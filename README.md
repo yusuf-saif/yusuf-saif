@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently Learning how to stay healthy and be a great software developer;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I sometimes write articles on [Dev.to];
+- 📝 I sometimes write articles on [Dev.to](https://dev.to/yusuf_software);
 - 📫 How to reach me: clevercode.yusuf@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1N8jRjY9Y8CqySGTLFS7iA_TGRSwjX55f/view?usp=drivesdk).
 
