@@ -29,4 +29,4 @@
 <a href="https://stackoverflow.com/users/10612336/iamnotstatic"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
 </p>
 -->
-![](https://wakatime.com/share/@67d853cd-f887-4393-8007-54142bcadd28/1be0bf7c-dd06-4b0e-b502-6d3d580a5367.svg)
+https://wakatime.com/badge/github/wakatime/vscode-wakatime
