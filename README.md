@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Developer focused on PHP (Laravel)</p>
+<p align='center'>I am a Software Developer focused on PHP (Laravel), With a Knack for Wordpress, Product and Project Management</p>
 
 <p align='center'>
 <a href="https://wa.me/2348156240305?text=Hello Yusuf" target="_blank">
