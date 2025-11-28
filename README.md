@@ -1,6 +1,7 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
 <p align='center'>I am a Software Developer focused on PHP (Laravel), With a Knack for Wordpress, Product and Project Management</p>
+🔭 I’m currently working on => Building WooCommerce Extension, Learing More on Ai, Cloud & Mental Health <br>👯 I’m looking to collaborate on => Open source projects around PHP, Wordrpress, Woocommerce<br>🤝 I’m looking for help with => Cloud <br>🌱 I’m currently learning => Ai, Cloud<br>💬 Ask me about => PHP, Wordpress, Woocommerce, CMS, Mental Health <br>⚡ Fun fact => oh chim
 
 <p align='center'>
 <a href="https://wa.me/2348156240305?text=Hello Yusuf" target="_blank">
@@ -32,30 +33,31 @@
   <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/> </a> <a href="https://php.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> <a href="https://woocommerce.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/> </a></p> -->
 
-## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-saif&show_icons=true&locale=en&layout=compact" alt="
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-saif&show_icons=true&locale=en&layout=compact" alt="
   yusuf-saif"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf-saif&show_icons=true&locale=en" alt="yusuf-saif" /></p>
 
-<!-- <p><img align="right="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-saif&" alt="yusuf-saif" /></p> -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-saif&" alt="yusuf-saif" /></p>
+<!-- <p><img align="right="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-saif&" alt="yusuf-saif" /></p> --
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-saif&" alt="yusuf-saif" /></p> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yusuf-saif&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yusuf-saif&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-saif&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact
   
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yusuf-saif&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
   # 💫 About Me:
-🔭 I’m currently working on => Building WooCommerce Extension, Learing More on Ai, Cloud & Mental Health <br>👯 I’m looking to collaborate on => Open source projects around PHP, Wordrpress, Woocommerce<br>🤝 I’m looking for help with => Cloud <br>🌱 I’m currently learning => Ai, Cloud<br>💬 Ask me about => PHP, Wordpress, Woocommerce, CMS, Mental Health <br>⚡ Fun fact => oh chim
+
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifyusuph) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yusuf Saifur-Rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clevercodes.yusuf@mail.com) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yusuf-saif&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yusuf-saif&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-saif&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+)
 
 
 
