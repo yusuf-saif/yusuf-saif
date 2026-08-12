@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Yusuf%20Saifur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Technical%20Project%20Manager&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Yusuf%20Saifur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Technical%20Prodcut/Project%20Manager&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/yusuf-saif">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Shipping+PHP+%26+Laravel+since+day+one+%F0%9F%92%BB;Building+WooCommerce+extensions+%F0%9F%9B%92;Turning+chaos+into+sprints+%F0%9F%93%8B;Wiring+up+RAG+%26+AI+systems+%F0%9F%A4%96;Designing+for+scale%2C+not+for+demos+%E2%98%81%EF%B8%8F;Mental+health+matters+in+tech+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -9,7 +9,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yusuf-saif&label=Profile%20Views&color=667EEA&style=flat-square" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=yusuf-saif&label=Profile%20Views&color=667EEA&style=flat-square" alt="profile views" /> -->
+<img src="https://komarev.com/ghpvc/?username=yusuf-saif&base=1000&label=Profile%20Views&color=667EEA&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/yusuf-saif?label=Followers&style=flat-square&color=667EEA" alt="followers" />
 <img src="https://img.shields.io/badge/Based%20in-Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-667EEA?style=flat-square" alt="location" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-764BA2?style=flat-square" alt="open to collaboration" />
