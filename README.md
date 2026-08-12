@@ -58,7 +58,7 @@ final class Profile extends Developer implements ProjectManager
 
     public function currentStatus(): string
     {
-        return $this->coffee > 0 ? 'Shipping 🚀' : 'Rebooting ☕';
+        return $this->tea > 0 ? 'Shipping 🚀' : 'Rebooting ☕';
     }
 }
 ```
