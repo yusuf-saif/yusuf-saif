@@ -24,7 +24,7 @@ I've spent over **7 years in tech**. I started as a developer and grew into deli
 
 Most teams split delivery across a project manager, a developer, and a QA engineer. On most of my projects, I'm all three. I sit with the client to work out what they actually need, and that's rarely what they first ask for. Then I turn it into a scoped plan and run the sprints. I also review the pull requests, write the tests, and deploy the system myself. Because I'm close to the code, my estimates hold up and I find bugs before users do. My status updates are honest, too.
 
-I've delivered for clients across **Australia, the US, and Nigeria**. That includes government and World Bank-funded programmes, banking-grade messaging infrastructure, education platforms, and a lot of e-commerce. Right now I'm **TPM & Product Lead at [Visionary Insights](https://visionaryinsights.co)**, a US-based AI-native venture studio.
+I've delivered for clients across **Australia, the US, and Nigeria**. That includes government and World Bank-funded programmes, banking-grade messaging infrastructure, education platforms, and a lot of e-commerce. 
 
 I like software that's boring to maintain and calm to ship. I'm allergic to clever solutions nobody will understand six months from now.
 
